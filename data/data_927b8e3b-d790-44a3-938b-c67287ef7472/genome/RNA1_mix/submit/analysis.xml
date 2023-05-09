@@ -1,0 +1,22 @@
+<ANALYSIS_SET>
+  <ANALYSIS alias="webin-genome-RNA1_mix">
+    <TITLE>Genome assembly: RNA1_mix</TITLE>
+    <STUDY_REF accession="PRJEB59248" />
+    <SAMPLE_REF accession="SAMEA112366184" />
+    <ANALYSIS_TYPE>
+      <SEQUENCE_ASSEMBLY>
+        <NAME>RNA1_mix</NAME>
+        <TYPE>COVID-19 outbreak</TYPE>
+        <PARTIAL>false</PARTIAL>
+        <COVERAGE>99</COVERAGE>
+        <PROGRAM>inhouse pipeline</PROGRAM>
+        <PLATFORM>not provided</PLATFORM>
+        <MOL_TYPE>genomic DNA</MOL_TYPE>
+      </SEQUENCE_ASSEMBLY>
+    </ANALYSIS_TYPE>
+    <FILES>
+      <FILE filename="webin-cli/genome/RNA1_mix/LUX20-H-1009_P3_chrm_list.txt.gz" filetype="chromosome_list" checksum_method="MD5" checksum="6ed30e21eaabe95b4ea7a6a5f3f06302" />
+      <FILE filename="webin-cli/genome/RNA1_mix/LUX20-H-1009_P3.fasta.gz" filetype="fasta" checksum_method="MD5" checksum="e7acd44c53a1485ea487b4773c1858cb" />
+    </FILES>
+  </ANALYSIS>
+</ANALYSIS_SET>

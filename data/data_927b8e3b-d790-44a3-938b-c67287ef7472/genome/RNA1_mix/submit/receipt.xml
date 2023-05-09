@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-01-30T11:27:55.019Z" submissionFile="submission-Luxembourg Institute of Health_1675078075019.xml" success="true">
+  <ANALYSIS accession="ERZ15981730" alias="webin-genome-RNA1_mix" status="PRIVATE" />
+  <SUBMISSION accession="ERA20368249" alias="SUBMISSION-30-01-2023-11:27:54:638" />
+  <MESSAGES />
+  <ACTIONS>ADD</ACTIONS>
+</RECEIPT>
